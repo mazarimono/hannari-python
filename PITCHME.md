@@ -2,11 +2,9 @@
 
 ---
 
-# はんなりPythonの会
+# はんなりPython #4 LT大会 with Beer
 
-## はんなりPython #4 LT大会 with Beer
-
-### 2018/03/16
+## 2018/03/16
 
 ---
 
