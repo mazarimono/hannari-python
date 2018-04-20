@@ -24,7 +24,7 @@
 
 ## OSS Gate ワークショップ
 
-<a href="https://oss-gate.github.io/">
+<a href="https://oss-gate.github.io/" target="_blank">
     <img src="https://oss-gate.github.io/images/logo.png" />
 </a>
 
