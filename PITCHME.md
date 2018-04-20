@@ -24,7 +24,9 @@
 
 ## OSS Gate ワークショップ
 
-<img src="https://oss-gate.github.io/images/logo.png" />
+<a href="https://oss-gate.github.io/">
+    <img src="https://oss-gate.github.io/images/logo.png" />
+</a>
 
 ---
 
@@ -44,6 +46,8 @@
 
 - 奇数月の第2金曜日
 
+[Connpass](https://spookies.connpass.com/event/84973/)
+
 ---
 
 ## テクテクTeck #2 5/11(金)
@@ -52,9 +56,10 @@
 
 発表します
 
-
 ---
 
 ## テクテクTeck #2 5/11(金)
 
 ### LTも募集中
+
+
